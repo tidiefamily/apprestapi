@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Yuldi\"",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidiefamily/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/tidiefamily/apprestapi/issues"
+  },
+  "homepage": "https://github.com/tidiefamily/apprestapi#readme",
+  "description": "aplikasi rest api"
+}
