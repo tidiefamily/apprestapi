@@ -1,8 +1,8 @@
-"user strict";
+"use strict";
 
 var response = require("./res");
 var connection = require("./koneksi");
 
-exports.index = function (res, res) {
-  response.ok("Aplikasi Rest Api ku berjalan");
+exports.index = function (req, res) {
+  response.ok("Aplikasi Rest Api ku berjalan", res);
 };
